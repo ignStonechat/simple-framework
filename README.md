@@ -13,3 +13,4 @@ You can either use CDN
 ```
 https://cdn.jsdelivr.net/gh/Targetful/simple-framework/assets/simple-buttons-min.css
 ```
+or just download from this repository!
