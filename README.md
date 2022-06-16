@@ -1,4 +1,4 @@
-# Simple Framework
+# Simple Framework (bruh this shit no longer active this is old dont bully me)
 
 Framework created to make your web development journey simpler!
 
